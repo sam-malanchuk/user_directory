@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+/*--- Author: Sam Malanchuk ---*/
+/*--- Link: www.dezignsnow.com ---*/
+
+body {
+background-color: white;
+}
+
+.img-center { margin: 0 auto; }
+
+.top-buffer { margin-top: 10px; }
+
+.input-group-addon.info {
+    color: rgb(255, 255, 255);
+    background-color: rgb(57, 179, 215);
+    border-color: rgb(38, 154, 188);
+}
